@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a4cdc652d2a34547be1cd4d82da6a96
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - customSkin: {fileID: 11400000, guid: 216685228be804ef68bf9632049d1242, type: 2}
+  - boilingSound: {fileID: 8300000, guid: fbcf28c5106a44751ad971eac7cd9592, type: 3}
+  - steamParticles: {instanceID: 0}
+  - checklistManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
